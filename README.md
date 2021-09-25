@@ -1,7 +1,7 @@
 
 ## Hi everyone,This mxdblcf,nice to meet you 👋
 ### xiangdong ma(马向东), TUTE(天津职业技术师范大学)
-- 🌱 I’m currently learning  go ,ebpf , cncf 
+- 🌱 I’m currently learning  golang ,ebpf , cncf 
 
 <!--
 **mxdblcf/mxdblcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
