@@ -1,10 +1,10 @@
 
 ## Hi everyone,This mxdblcf,nice to meet you 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxdblcf&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxdblcf&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxdblcf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### xiangdong ma(马向东), TUTE(天津职业技术师范大学)
 - 🌱 I’m currently learning  golang ,ebpf , cncf 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxdblcf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **mxdblcf/mxdblcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
