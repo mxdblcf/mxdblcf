@@ -1,7 +1,7 @@
 
 ## Hi everyone,This EastHorse,nice to meet you 👋
 - 🌱 I’m currently learning  golang ,ebpf , cncf 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EastHorse)](https://github.com/mxdblcf)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxdblcf)](https://github.com/mxdblcf)
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EastHorse&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mxdblcf/mxdblcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
