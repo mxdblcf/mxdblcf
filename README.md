@@ -1,6 +1,6 @@
 
 ## Hi everyone,This EastHorse,nice to meet you 👋
-- 🌱 I’m currently learning  golang ,ebpf , cncf 
+- 🌱 I’m currently learning  golang ,ebpf ，rust
 
 
 
